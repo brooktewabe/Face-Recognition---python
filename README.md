@@ -2,12 +2,12 @@
 
 Requirements:
 
-#Python
-#VS Code
-#CMake
-#Microsoft Visual studio installer
-#Windows SDK
+# Python
+# VS Code
+# CMake
+# Microsoft Visual studio installer
+# Windows SDK
 
-
+/n/n/n
 Python dependencies:
 Python CV and few others
